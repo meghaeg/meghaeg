@@ -17,11 +17,6 @@
 </p>
 
 <br>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=700&lines=DevOps+Focused;Full-Stack+Development;Cloud+%26+Automation;CI%2FCD+%7C+Docker+%7C+Kubernetes" />
-</p>
-
 ---
 
 <h3 align="center">Tech Stack</h3>
