@@ -1,77 +1,89 @@
-<h1 align="center">Hello there 👋</h1>
+<h1 align="center">Hi, I'm Megha 👋</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00E5FF,100:8A2BE2&height=3&section=header" />
-</p>
-
-<h2 align="center">Megha E G</h2>
-
-<p align="center">
-  <b>Passionate about DevOps and Full-Stack Development</b><br>
-  <i>Building scalable applications, automating workflows, and creating deployment-ready solutions.</i>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3500&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=DevOps+Enthusiast;Full-Stack+Developer;Building+Reliable+Software;Always+Learning+Something+New"/>
 </p>
 
 <p align="center">
-  <a href="https://meghaeg.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=googlechrome&logoColor=00E5FF" />
-  </a>
-  <a href="https://www.linkedin.com/in/megha-e-g-4035b9320/">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=8A2BE2" />
-  </a>
-  <a href="mailto:meghaeg27@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=00E5FF" />
-  </a>
+<i>
+Passionate about building scalable applications, automating deployments,
+and creating production-ready software with DevOps and Full-Stack technologies.
+</i>
 </p>
 
 ---
 
-### About Me
+## About Me
 
-- Final Year Computer Science Engineering student  
-- Mainly focused on **DevOps Engineering**
-- Interested in **Full-Stack Development**
-- Building projects with clean code, automation, deployment, and monitoring
-- Exploring CI/CD, cloud infrastructure, containers, and production-ready systems
+```text
+🎓 Final Year Computer Science Engineering Student
+
+⚙️ Passionate about DevOps Engineering
+
+🌐 Full-Stack Developer
+
+☁️ Learning Cloud, Kubernetes & Automation
+
+🚀 Building projects that are scalable,
+   maintainable and deployment-ready.
+```
 
 ---
 
-### Tech Stack
+## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,html,css,js,react,next,nodejs,express,mongodb,mysql,git,github,docker,kubernetes,jenkins,terraform,aws,azure,linux,vscode&theme=light" />
-</p>
 
----
+<img src="https://skillicons.dev/icons?i=c,java,html,css,js,react,next,nodejs,express,mongodb,mysql,docker,kubernetes,jenkins,terraform,aws,azure,git,github,linux,vscode"/>
 
-### GitHub Analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=meghaeg&show_icons=true&theme=default&hide_border=true&title_color=8A2BE2&icon_color=00A6D6" />
-  <img height="165" src="https://streak-stats.demolab.com?user=meghaeg&theme=default&hide_border=true&ring=8A2BE2&fire=00A6D6&currStreakLabel=8A2BE2" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghaeg&layout=compact&theme=default&hide_border=true&title_color=8A2BE2" />
 </p>
 
 ---
 
-### Contribution Graph
+## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meghaeg&theme=github" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=meghaeg&show_icons=true&hide_border=true&theme=transparent"/>
+
+<img width="48%" src="https://streak-stats.demolab.com?user=meghaeg&theme=transparent&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghaeg&layout=compact&hide_border=true&theme=transparent"/>
+
 </p>
 
 ---
 
-### Quote
+## Contribution Graph
 
 <p align="center">
-  <i>"Build. Automate. Deploy. Improve."</i>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meghaeg&theme=github"/>
+
 </p>
 
-<hr>
+---
+
+## Quote
 
 <p align="center">
-  <i>Take a look at my repositories and let's connect.</i>
+
+> **"Good software is built twice — first by developers, then by automation."**
+
+</p>
+
+---
+
+<p align="center">
+
+<a href="https://meghaeg.vercel.app">Portfolio</a>
+•
+<a href="https://www.linkedin.com/in/megha-e-g-4035b9320/">LinkedIn</a>
+•
+<a href="mailto:meghaeg27@gmail.com">Email</a>
+
 </p>
