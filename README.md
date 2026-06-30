@@ -27,7 +27,7 @@
 <h3 align="center">Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,html,css,js,react,next,nodejs,express,mongodb,mysql,git,github,docker,kubernetes,jenkins,terraform,aws,azure,linux,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,java,html,css,js,react,nodejs,express,mongodb,mysql,git,github,docker,kubernetes,jenkins,terraform,aws,vscode&theme=dark" />
 </p>
 
 ---
