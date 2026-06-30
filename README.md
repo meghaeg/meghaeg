@@ -1,127 +1,128 @@
-````md
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00E5FF,100:8A2BE2&height=220&section=header&text=Megha%20E%20G&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Focused%20Full-Stack%20Developer&descSize=20&descAlignY=58" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:8A2BE2&height=180&section=header&text=Megha%20E%20G&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=850&lines=Final+Year+CSE+Student;DevOps+Enthusiast;Full-Stack+Developer;CI%2FCD+%7C+Cloud+%7C+Automation;Building+Scalable+Digital+Solutions" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=DevOps+Focused+Developer;Full-Stack+Developer;Final+Year+CSE+Student;Building+Scalable+Digital+Solutions" />
+<br>
 
-</div>
+<p align="center">
+  <a href="https://meghaeg.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=0D1117" />
+  </a>
+  <a href="https://www.linkedin.com/in/megha-e-g-4035b9320/">
+    <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:meghaeg27@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF" />
+  </a>
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
-```yaml
-name: Megha E G
-role: Final Year Computer Science Engineering Student
-focus: DevOps and Full-Stack Development
-main_interest: DevOps
-portfolio: meghaeg.vercel.app
-````
+I am **Megha E G**, a Final Year Computer Science Engineering student passionate about **Full-Stack Development and DevOps**, with my main focus on **DevOps engineering**.
 
-I am passionate about **Full-Stack Development and DevOps**, mainly focused on **DevOps engineering**.
-I enjoy building scalable applications, automating deployment workflows, and creating clean, reliable software systems.
+I enjoy building applications that are not only functional, but also **scalable, automated, deployment-ready, monitored, and production-focused**.
 
----
+<br>
 
-## 🚀 My Skillset
+## ⚡ My Developer Identity
 
-| Domain            | Skills                                             |
-| ----------------- | -------------------------------------------------- |
-| ⚙️ DevOps         | CI/CD, Docker, Kubernetes, Jenkins, GitHub Actions |
-| 🌐 Full Stack     | React, Next.js, Node.js, Express.js                |
-| 🗄️ Database      | MongoDB, MySQL                                     |
-| ☁️ Cloud & Infra  | AWS, Azure, Terraform, Linux                       |
-| 💻 Programming    | C, Java, JavaScript                                |
-| 🧠 Core Strengths | DSA, Problem Solving, Project Development          |
+```txt
+DevOps Focused Developer
+Full-Stack Project Builder
+Cloud & Automation Enthusiast
+Problem Solver
+Production-Ready Application Builder
+```
 
----
+<br>
+
+## 🚀 Skillset Snapshot
+
+| Domain | Skills |
+|---|---|
+| ⚙️ DevOps | CI/CD Pipelines, Docker, Kubernetes, Jenkins, GitHub Actions |
+| ☁️ Cloud & Infrastructure | AWS, Azure, Terraform, Linux |
+| 🌐 Frontend | React.js, Next.js, HTML, CSS, JavaScript |
+| 🛠️ Backend | Node.js, Express.js |
+| 🗄️ Database | MongoDB, MySQL |
+| 💻 Programming | C, Java, JavaScript |
+| 🧠 Core Strengths | DSA, Problem Solving, Project Development |
+
+<br>
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,html,css,js,react,next,nodejs,express,mongodb,mysql,git,github,docker,kubernetes,jenkins,terraform,aws,azure,linux,vscode&theme=dark" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=c,java,html,css,js,react,next,nodejs,express,mongodb,mysql,git,github,docker,kubernetes,jenkins,terraform,aws,azure,linux,vscode&theme=dark" />
+<br>
 
-</div>
+## 🔄 DevOps Workflow
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Plan-0D1117?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-00E5FF?style=for-the-badge&logo=visualstudiocode&logoColor=0D1117" />
+  <img src="https://img.shields.io/badge/Build-8A2BE2?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Test-0D1117?style=for-the-badge&logo=testinglibrary&logoColor=00E5FF" />
+  <img src="https://img.shields.io/badge/Dockerize-00E5FF?style=for-the-badge&logo=docker&logoColor=0D1117" />
+  <img src="https://img.shields.io/badge/Deploy-8A2BE2?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Monitor-0D1117?style=for-the-badge&logo=grafana&logoColor=00E5FF" />
+</p>
 
-## ⚡ DevOps Workflow I Follow
+<br>
 
-<div align="center">
+## 🎯 Current Focus
 
 ```txt
-Plan → Code → Build → Test → Dockerize → Deploy → Monitor → Improve
+Learning deeper DevOps practices
+Building full-stack projects with deployment pipelines
+Exploring cloud infrastructure and automation
+Practicing DSA and strengthening problem-solving
+Creating production-ready project workflows
 ```
 
-</div>
+<br>
 
----
+## 📌 Featured Direction
 
-## 🌐 Connect With Me
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=meghaeg&repo=EVENTRA&theme=tokyonight&bg_color=0D1117&title_color=00E5FF&icon_color=8A2BE2&border_color=00E5FF" />
+</p>
 
-<div align="center">
-
-<a href="https://meghaeg.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=black" />
-</a>
-
-<a href="https://www.linkedin.com/in/megha-e-g-4035b9320/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:meghaeg27@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF" />
-</a>
-
-</div>
-
----
+<br>
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=meghaeg&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00E5FF&icon_color=8A2BE2&border_color=00E5FF&hide_border=false" />
+  <img height="170" src="https://streak-stats.demolab.com?user=meghaeg&theme=tokyonight&background=0D1117&border=00E5FF&ring=8A2BE2&fire=00E5FF&currStreakLabel=00E5FF" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=meghaeg&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00E5FF&icon_color=8A2BE2&border_color=00E5FF" />
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghaeg&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00E5FF&border_color=00E5FF" />
+</p>
 
-<img height="170" src="https://streak-stats.demolab.com?user=meghaeg&theme=tokyonight&background=0D1117&border=00E5FF&ring=8A2BE2&fire=00E5FF&currStreakLabel=00E5FF" />
+<br>
 
-</div>
+## 📈 Contribution Graph
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meghaeg&theme=tokyonight" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghaeg&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00E5FF&border_color=00E5FF" />
+<br>
 
-</div>
+## 💡 Engineering Philosophy
 
----
+<p align="center">
+  <b>Build clean. Automate smart. Deploy confidently. Improve continuously.</b>
+</p>
 
-## 📈 Contribution Activity
+<br>
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meghaeg&theme=tokyonight" />
-
-</div>
-
----
-
-## 💡 Current Direction
-
-<div align="center">
-
-### DevOps-driven Full-Stack Developer
-
-Building projects that are functional, scalable, automated, deployment-ready, and production-focused.
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00E5FF&height=120&section=footer" />
-
-</div>
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00E5FF,100:0D1117&height=130&section=footer" />
